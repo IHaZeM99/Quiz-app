@@ -60,8 +60,4 @@ This is a simple Quiz Application built using JavaFX. The application allows use
 
 ![Login Page Preview](Screenshot_1.png)
 
-## License
-This project is licensed under the MIT License.
-
----
 Feel free to contribute to this project! 🚀
