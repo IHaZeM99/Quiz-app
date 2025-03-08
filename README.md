@@ -51,6 +51,15 @@ This is a simple Quiz Application built using JavaFX. The application allows use
 - Implement different quiz categories
 - Add animations and sound effects
 
+## 📸 Screenshots
+![Login Page Preview](Screenshot_2.png)
+
+![Login Page Preview](Screenshot_3.png)
+
+![Login Page Preview](Screenshot_4.png)
+
+![Login Page Preview](Screenshot_1.png)
+
 ## License
 This project is licensed under the MIT License.
 
